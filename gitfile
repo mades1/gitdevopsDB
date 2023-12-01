@@ -4,3 +4,5 @@ git v3
 git v4
 git v5
 git v6
+git v7(instead of updating code in feature branch we are doing in directly in master branch)
+
